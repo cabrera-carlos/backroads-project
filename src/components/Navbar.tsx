@@ -1,5 +1,5 @@
 import logo from "../assets/logo.svg";
-import { navLinks, socialLinks } from "../data/data";
+import { navLinks, socialLinks } from "../data";
 
 const Navbar = () => {
   return (
